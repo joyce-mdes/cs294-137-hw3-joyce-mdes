@@ -1,6 +1,8 @@
 # cs294-137-hw3-joyce-mdes
 cs294-137-hw3: A Real AR Game with ARUCO Marker
-
+###Links:
+- Unity Files (my project is over 10GB, so I couldn't upload it to GitHub): https://drive.google.com/file/d/1PbY7AVmQCYNsXz8OUy4basD-T6UWfUVf/view?usp=drive_link
+- YouTube Video: https://youtu.be/0WWgxqocUvI
 
 # 🧱 AR Block Shooter  
 *A mini Augmented Reality game built with Unity, AR Foundation, and ARUCO marker tracking.*
